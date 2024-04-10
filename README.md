@@ -3,7 +3,9 @@ Este é um programa simples em python que se conecta ao servidor ssh e executa c
 
 ## Primeiro passo
 
-Caso você ainda não tenha a biblioteca ***paramiko***, istale-a rodando o seguinte comando no terminal do PyCharm: ` pip install paramiko `
+Caso você ainda não tenha a biblioteca ***paramiko***, istale-a rodando o seguinte comando no terminal do PyCharm: 
+
+` pip install paramiko `
 
 > _O Paramiko é uma implementação do protocolo SSHv2, escrita inteiramente em Python. Ele oferece uma maneira prática e eficaz de realizar operações SSH, como execução de comandos remotos ou transferência de arquivos, programaticamente._
  (Fonte: https://didatica.tech)

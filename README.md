@@ -37,11 +37,11 @@ Pronto, comexão feita!
 
 ![image](https://github.com/LeRodrigues2005/Cliente-SSH/assets/97632543/f9f46e54-42c2-429d-8797-b28bee941e6d)
 
-## Obs
+## Observações...
 
-Faça suas prórpias atualizações no código, mude o alvo, crie funções, automatize tarefas, seja criativo! 
+Faça suas prórpias atualizações no código, mude o alvo, crie funções, automatize tarefas, seja **criativo**! 
 
 Me siga no **Linkedin:** https://www.linkedin.com/in/letícia-rodrigues-a75134254/
 
 
-Bons estudos!
+_Bons estudos!_

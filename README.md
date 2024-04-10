@@ -16,6 +16,7 @@ Então, execute o ***ssh_cliente***:
 
  ## Segundo passo
  Abra um terminal e execute o comando ` ssh root@127.0.0.1 `, onde _root_ é o nome de sua máquina.
+ 
  Depois, rode o programa ***ssh_client*** no PyCharm. No terminal você verá um input escrito _Comando_.
 
  ![image](https://github.com/LeRodrigues2005/Cliente-SSH/assets/97632543/defdab5e-0f60-4a77-b789-625a83514ff7)

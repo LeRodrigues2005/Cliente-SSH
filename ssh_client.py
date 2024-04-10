@@ -1,11 +1,14 @@
 import paramiko
 
+# As seguintes informações podem ser mudadas conforme o que você queira acessar.
+# Esses são os valores para acessar o localhost com o ssh padrão.
 host = "127.0.0.1"
-user = "root"  # DEPOIS - mudar para user e senha padrao
-passwd = "1939"
+user = "kali"
+passwd = "kali"
 
-client = paramiko.SSHClient()
-client.set_missing_host_key_policy(paramiko.AutoAddPolicy())  # tornar o host conhecido para permitir conexão
+client = paramiko.SSHClient()  # Cria uma instância do cliente SSH.
+client.set_missing_host_key_policy(paramiko.AutoAddPolicy())  # Torna o host conhecido para permitir conexão
+# Estabelece uma conexão SSH com o host especificado usando o nome de usuário e senha fornecidos:
 client.connect(host, username=user, password=passwd)
 
 while True:

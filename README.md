@@ -25,7 +25,7 @@ Utilize o terminal do PyCharm para executar comandos.
 
 ![image](https://github.com/LeRodrigues2005/Cliente-SSH/assets/97632543/9afadcee-6ceb-4dfa-b782-873856edb8bd)
 
-## Quarto passo
+## Utilizando o terminal do Linux
 
 Você também pode utilizar o Netcat e fazer os comandos no terminal do próprio linux.
 

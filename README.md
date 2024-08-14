@@ -33,7 +33,6 @@ Você também pode utilizar o Netcat e fazer os comandos no terminal do próprio
 Para isso, execute o seguinte código no terminal do linux: ` nc -lvp 7899 `.
 Depois, rode o ***ssh_cliente*** e escreva o seguinte no terminal do PyCharm: ` nc 127.0.0.1 7899 -e bin/bash `, pressione Enter.
 
-Pronto, conexão feita!
-
 ![image](https://github.com/LeRodrigues2005/Cliente-SSH/assets/97632543/f9f46e54-42c2-429d-8797-b28bee941e6d)
 
+Pronto, conexão feita!

@@ -1,16 +1,16 @@
-# O que é isso?
+# Cliente SSH
 Este é um programa simples em python que se conecta ao servidor ssh e executa comandos no mesmo. Foi criado visando seu uso especificamente no Kali Linux.
 
-## Primeiro passo
-
-Caso você ainda não tenha a biblioteca ***paramiko***, istale-a rodando o seguinte comando no terminal do PyCharm: 
-
-` pip install paramiko `
+## Requisitos
+- **Python 3.x**: Certifique-se de ter o Python 3.x instalado em seu ambiente.
+- **IDE**: Para este projeto, eu usei o <a href="https://www.jetbrains.com/pycharm/download/?section=windows">PyCharm</a> (Edição Community).
+- **Biblioteca _paramiko_**: ` pip install paramiko `
 
 > _O Paramiko é uma implementação do protocolo SSHv2, escrita inteiramente em Python. Ele oferece uma maneira prática e eficaz de realizar operações SSH, como execução de comandos remotos ou transferência de arquivos, programaticamente._
  (Fonte: https://didatica.tech)
 
-Então, execute o ***ssh_cliente***:
+## Primeiro passo
+Execute o ***ssh_cliente***:
 
  ![image](https://github.com/LeRodrigues2005/Cliente-SSH/assets/97632543/612f3451-1eda-4eb4-a3cf-67fa603ec8ca)
 
